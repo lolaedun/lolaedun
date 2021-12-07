@@ -6,8 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-# Hi, I'm Lola. I'm a mother and Full Stack Developer 👋🏾 👩🏾‍💻 
 
+
+<img src="https://github.com/lolaedun/lolaedun/blob/main/Lola-Edun-Github.png?raw=true" alt="banner that says Lola Edun - Full Stack Developer along with a photo of Lola">
+
+
+# Hey, I'm Lola. I'm a mother and Full Stack Developer 👋🏾 👩🏾‍💻 
 
 - 🔭 I’m currently working on pimping my GitHub Profile
 - 🌱 I’m currently learning Django and how to hula hoop
