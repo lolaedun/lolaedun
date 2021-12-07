@@ -1,10 +1,13 @@
-### Hi there 👋
+
 
 <!--
 **lolaedun/lolaedun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+# Hi, I'm Lola 👋🏾 👩🏾‍💻 
+
 
 - 🔭 I’m currently working on pimping my GitHub Profile
 - 🌱 I’m currently learning Django and how to hula hoop
