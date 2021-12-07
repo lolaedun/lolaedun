@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+Email or Instagram
