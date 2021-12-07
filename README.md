@@ -4,6 +4,7 @@
 **lolaedun/lolaedun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on pimping my GitHub Profile
 - 🌱 I’m currently learning Django and how to hula hoop
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm Russian, Italian and Nigerian but have been living in the UK for over 20 years.
--->
