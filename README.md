@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/lolaedun/lolaedun/blob/main/Lola-Edun.gif" alt="banner that says Lola Edun - Full Stack Developer along with a photo of Lola">
 
 
-# Hey, I'm Lola. I'm a mother, Creator and Full Stack Developer 👋🏾 👩🏾‍💻 
+# Hey, I'm Lola. I'm a mother, Creator and Full Stack Developer 👋🏾 👩🏾‍💻 <div class="tenor-gif-embed" data-postid="14457690" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/the-blobs-live-on-waving-hey-smiling-hi-gif-14457690">Emoji Raises Hand Sticker</a>from <a href="https://tenor.com/search/the+blobs+live+on-stickers">The Blobs Live On Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on pimping my GitHub Profile
 - 🌱 I’m currently learning Django and how to hula hoop
