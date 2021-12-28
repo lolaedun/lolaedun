@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: Instagram
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm Russian, Italian and Nigerian but have been living in the UK for over 20 years.
+- ⚡ Fun fact: I'm Russian, Italian and Nigerian but have been living in the UK for over 20 years. I speak Fluent Italian and know a few Russian and French sentences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
