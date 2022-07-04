@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/lolaedun/lolaedun/blob/main/Lola-Edun.gif" alt="banner that says Lola Edun - Full Stack Developer along with a photo of Lola">
 
 
-# Hey, I'm Lola. I'm a Mother, Creator and Full Stack Developer <img src="https://github.com/lolaedun/lolaedun/blob/main/lola-blob-hi.gif" alt="waving blob saying hi" width="10px"> 👩🏾‍💻 
+# Hey, I'm Lola. I'm a Mother, Creator and Full Stack Developer <img src="https://github.com/lolaedun/lolaedun/blob/main/lola-blob-hi.gif" alt="waving blob saying hi" width="10"> 👩🏾‍💻 
 
 - 🔭 I’m currently working on pimping my GitHub Profile
 - 🌱 I’m currently learning Django and how to hula hoop
