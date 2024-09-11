@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 # Hey, I'm Lola. 
 # I'm a Creative Leader | Full Stack Developer | Campaign Strategist <img src="https://github.com/lolaedun/lolaedun/blob/main/lola-blob-hi.gif" alt="waving blob saying hi" width="30"> 👩🏾‍💻 
 
-- 🔭 I’m currently working on pimping my GitHub Profile
-- 🌱 I’m currently learning Django and how to hula hoop
-- 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with tech interviews
-- 💬 Ask me about anything
-- 📫 How to reach me: Instagram
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm Russian, Italian and Nigerian but have been living in the UK for over 20 years. I speak Fluent Italian and know a few Russian and French sentences.
+🔭 **Currently working on:** Enhancing my GitHub profile and exploring new projects.  
+🌱 **Currently learning:** React, Next.js, TypeScript, Tailwind CSS, and Prisma.  
+👯 **Open to collaborating on:** Exciting and innovative projects.  
+🤔 **Seeking help with:** Preparing for interviews and refining my skills.  
+💬 **Ask me about:** Web development, creative direction, or project management!  
+📫 **Reach me at:** [mledun@hotmail.com]  
+😄 **Pronouns:** She/Her  
+⚡ **Fun fact:** I'm a mix of Russian, Italian, and Nigerian, living in the UK for 20+ years. I speak fluent Italian and know a bit of Russian and French!
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
