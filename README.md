@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github.com/lolaedun/lolaedun/blob/main/Lola-Edun.gif" alt="banner that says Lola Edun - Full Stack Developer along with a photo of Lola">
+<img src="https://github.com/lolaedun/lolaedun/blob/main/lola-edun.gif" alt="banner that says Lola Edun - Full Stack Developer along with a photo of Lola">
 
 
 # Hey, I'm Lola. 
