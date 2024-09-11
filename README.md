@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-Email or Instagram
+Email or Instagram or <a href="https://www.buymeacoffee.com/lolaedun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
